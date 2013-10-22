@@ -1,0 +1,29 @@
+.find-us {
+	color: #000;
+}
+
+a:hover,
+a:focus,
+a:active {
+    text-decoration: underline;
+}
+
+a:link,
+a:visited {
+	text-decoration: none; 
+}
+
+.contact-info p {
+	padding: 1px;
+	text-align: left; 
+}
+
+footer {
+        border-top: 1px solid #000; 
+        padding-top: 10px;
+        padding-bottom: 10px;  
+}
+
+footer p {
+        padding: 5px; 
+}
