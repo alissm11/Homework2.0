@@ -1,3 +1,28 @@
+h1 {
+	color: #52197E;
+	font-weight: bold; 
+}
+
+h2 {
+	color: #52197E;
+}
+
+h3 {
+	color: #FBC70E;
+}
+
+.logo {
+	width: 90%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.8; 
+}
+
+.logo:hover {
+	opacity: 1; 
+}
+
 .find-us {
 	color: #000;
 }
@@ -15,6 +40,10 @@ a:visited {
 
 .contact-info {
 	text-align: center; 
+}
+
+iframe {
+	width: 80%; 
 }
 
 footer {
